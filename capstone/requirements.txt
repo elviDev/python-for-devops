@@ -1,0 +1,9 @@
+fastapi==0.139.2
+uvicorn[standard]
+psutil
+boto3
+botocore[crt]
+langchain
+langchain-core
+langchain-ollama
+langgraph
