@@ -1,5 +1,9 @@
 # Python for DevOps + Agentic AI
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elviDev&theme=github-light&cache_seconds=1800&v=3" alt="Elvis's Contribution Graph" width="100%" />
+</p>
+
 Learn to use Python for real DevOps work — automation, cloud operations,
 log analysis, internal tooling, and local AI agents.
 
